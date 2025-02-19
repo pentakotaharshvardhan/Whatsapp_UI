@@ -9,10 +9,8 @@ A beautiful and responsive WhatsApp UI clone built using Flutter. This project r
 ✅ Smooth Animations – Beautiful transitions between screens.  
 
 ## 📸 Screenshots :
-<img src="https://github.com/user-attachments/assets/fded3fbb-a431-4494-b2f6-3562c88f4c14" alt="Description" width="50%">
-
-![image](https://github.com/user-attachments/assets/fded3fbb-a431-4494-b2f6-3562c88f4c14)
-![image](https://github.com/user-attachments/assets/d5619fdc-b9ee-4944-abe0-dd57d1dd2d63)
+<img src="https://github.com/user-attachments/assets/fded3fbb-a431-4494-b2f6-3562c88f4c14" alt="Description" width="50%" height="50%">
+<img src="https://github.com/user-attachments/assets/d5619fdc-b9ee-4944-abe0-dd57d1dd2d63" alt="Description" width="50%" height="50%">
 
 ## 🛠️ Tech Stack
 Flutter – Cross-platform mobile development.  
